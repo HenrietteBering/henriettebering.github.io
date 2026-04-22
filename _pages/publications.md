@@ -14,4 +14,4 @@ Bering, Henriette; Schulz, Wiebke, 2024: Can sports and music level the playing 
 [Full text](https://doi.org/10.1016/j.rssm.2024.100895)
 
 # Other Publications 
-Groh-Samberg, Olaf; Schulz, Wiebke; Gerlitz, Jean-Yves; Bering, Henriette; Przybys, Joanna, 2024: Entstehung und Bedeutung der sozialen Lage im Lebensverlauf. Forschungsbericht im Rahmen des Siebten Armuts- und Reichtumsberichts, BMAS (Ed.), on behalf of: Bundesministerium für Arbeit und Soziales (BMAS), Berlin. 
+Groh-Samberg, Olaf; Schulz, Wiebke; Gerlitz, Jean-Yves; Bering, Henriette; Przybys, Joanna, 2024: Entstehung und Bedeutung der sozialen Lage im Lebensverlauf. Forschungsbericht im Rahmen des Siebten Armuts- und Reichtumsberichts, BMAS (Ed.), on behalf of: Bundesministerium für Arbeit und Soziales (BMAS), Berlin. [Download full text](/files/ARB-socium-soziale-mobilität.pdf)
