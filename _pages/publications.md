@@ -10,10 +10,7 @@ redirect_from:
 
 # Journal Articles
 ## 2024
-Burger, K., Strassmann Rocha, D. Mental health, gender, and higher education attainment. Z Erziehungswiss 27, 89–122 (2024). https://doi.org/10.1007/s11618-023-01187-3
+Bering, Henriette; Schulz, Wiebke, 2024: Can sports and music level the playing field? Adolescents’ extracurricular activities and the reproduction of social inequalities in cognitive skills, in: Research in Social Stratification and Mobility (90), doi:10.1016/j.rssm.2024.100895 
 
 # Other Publications 
-Imboden, D., Popovic, S., Strassmann Rocha, D. (2022). Reasons for Studying Sociology from an Inequality
-Perspective. Swiss Sociological Association, Bulletin 161, December 2022, 19-25. [pdf here](https://www.sgs-sss.ch/wp-content/uploads/2022/04/SSA-Bulletin-161.pdf) 
-
-Conforti, E., Dürr, R., Siefart, F., Strassmann Rocha, D., Giesselmann, M. (2021). [Regressionsanalyse mit R](https://www.suz.uzh.ch/dataforstat/statistik2/).
+Groh-Samberg, Olaf; Schulz, Wiebke; Gerlitz, Jean-Yves; Bering, Henriette; Przybys, Joanna, 2024: Entstehung und Bedeutung der sozialen Lage im Lebensverlauf. Forschungsbericht im Rahmen des Siebten Armuts- und Reichtumsberichts, BMAS (Ed.), on behalf of: Bundesministerium für Arbeit und Soziales (BMAS), BMAS; SOCIUM, Berlin.
